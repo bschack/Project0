@@ -1,0 +1,16 @@
+body {
+  font-family: fantasy; }
+
+a {
+  text-decoration: none;
+  color: lightblue;
+  font-size: 14px; }
+
+a:hover {
+  color: blue;
+  text-decoration: underline; }
+
+a:hover::before {
+  content: "Click!"; }
+
+/*# sourceMappingURL=style.css.map */
