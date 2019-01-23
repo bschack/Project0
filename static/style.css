@@ -10,7 +10,4 @@ a:hover {
   color: blue;
   text-decoration: underline; }
 
-a:hover::before {
-  content: "Click!"; }
-
 /*# sourceMappingURL=style.css.map */
